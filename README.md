@@ -1,14 +1,17 @@
-# About Dataset
+# Breast Cancer Classification Dataset  
 
-**Description:**
-Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
+## 📄 Descripción  
 
-The key challenges against it’s detection is how to classify tumors into malignant (cancerous) or benign(non cancerous). We ask you to complete the analysis of classifying these tumors using machine learning (with SVMs) and the Breast Cancer Wisconsin (Diagnostic) Dataset.
+<div align="center">
+    <img src="./OIP.jpg" alt="Chatbot" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
 
-**Acknowledgements:**
-This dataset has been referred from Kaggle.
+El cáncer de mama es el tipo de cáncer más común entre las mujeres a nivel mundial, representando el **25% de todos los casos de cáncer**. En 2015, afectó a más de **2.1 millones de personas**. Este tipo de cáncer se origina cuando las células en el tejido mamario comienzan a crecer de manera descontrolada, formando tumores que pueden detectarse mediante rayos X o palpación de bultos en la zona mamaria.  
 
-**Objective:**
-- Understand the Dataset & cleanup (if required).
-- Build classification models to predict whether the cancer type is Malignant or Benign.
-- Also fine-tune the hyperparameters & compare the evaluation metrics of various classification algorithms.
+El principal desafío en su detección radica en clasificar correctamente los tumores como **malignos (cancerosos)** o **benignos (no cancerosos)**. Este proyecto utiliza **machine learning**, específicamente **Máquinas de Soporte Vectorial (SVMs)**, junto con el **Breast Cancer Wisconsin (Diagnostic) Dataset** para abordar este problema.  
+
+## 🎯 Objetivos  
+
+1. **Explorar y limpiar el dataset** para preparar los datos para el análisis (si es necesario).  
+2. Construir **modelos de clasificación** para predecir si un tumor es **maligno** o **benigno**.  
+3. Realizar **afinación de hiperparámetros** y comparar las métricas de evaluación entre diferentes algoritmos de clasificación.  
